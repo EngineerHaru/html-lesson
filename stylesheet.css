@@ -6,6 +6,4 @@ form, input, div {
   padding: 0;
 }
 
-li {
-  list-style: none;
-}
+/*①まずheader の細部を装飾。headerとheader--listのcss装飾*/
